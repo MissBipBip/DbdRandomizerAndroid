@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DbdRandomizer.iml" filepath="$PROJECT_DIR$/DbdRandomizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbdrandomizer/dbdrandomizer.iml" filepath="$PROJECT_DIR$/dbdrandomizer/dbdrandomizer.iml" />
     </modules>
   </component>
 </project>
