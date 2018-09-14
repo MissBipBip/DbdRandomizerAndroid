@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dbdrandomizer.dbdrandomizer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dbdrandomizer/dbdrandomizer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
